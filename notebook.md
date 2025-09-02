@@ -24,15 +24,15 @@
 | StatefulWidget   |                                                  |                                           |
 | Navigator        |                                                  |                                           |
 | AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
+| Column           | vertical layout                                                 |                                           |
+| Row              | horizontal layout                                                 |                                           |
 | Container        |                                                  |                                           |
-| Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
+| Text             | displays text                                                  |                                           |
+| Image.network    | displays images widget                                                  |                                           |
 
-| Padding    |                    |                     |
+| Padding    | adds space around a widget                   |                     |
 
-| Center      |                    |                     |
+| Center      | center its child                   |                     |
 
 ---
 

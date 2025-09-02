@@ -17,12 +17,12 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           | Basic building block of a Flutter app. Everything is a widget Text, Image, Container, Colum|                                           |
-| MaterialApp      | The root of the app. Sets up routes and themes      Found in main, dart                                            |                                           |
-| Scaffold         | provides basic visual layout-like a header, body, floating button Each screen uses it|                                           |
-| StatelessWidget  | A widget that doesn't change                       Most of the screen files                          |                                           |
-| StatefulWidget   | A widget that can change over time                 used in MyHomePage()                                 |                                           |
-| Navigator        | Manages screen transitions                         Navigator, pushName(context, '/page2'):                         |                                           |
+| Widget           | Basic building block of a Flutter app. Everything is a widget|Text, Image, Container, Colum                                           |
+| MaterialApp      | The root of the app. Sets up routes and themes                                               | Found in main, dart                                             |
+| Scaffold         | provides basic visual layout-like a header, body, floating button | Each screen uses it                                          |
+| StatelessWidget  | A widget that doesn't change                                                |  Most of the screen files                                          |
+| StatefulWidget   | A widget that can change over time                                                |   used in MyHomePage()                                          |
+| Navigator        | Manages screen transitions                                               | Navigator, pushName(context, '/page2')                                           |
 | AppBar           | Top navigation bar                                                 |  Titlle of each page appenears                                          |
 | Column           | vertical layout                                                 |                                           |
 | Row              | horizontal layout                                                 |                                           |

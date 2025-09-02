@@ -30,9 +30,9 @@
 | Text             | displays text                                                  |                                           |
 | Image.network    | displays images widget                                                  |                                           |
 
-| Padding    | adds space around a widget                   |                     |
+| Padding    | | | adds space around a widget                   |                     |
 
-| Center      | center its child                   |                     |
+| Center      | | | center its child                   |                     |
 
 ---
 

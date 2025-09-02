@@ -26,7 +26,7 @@
 | AppBar           |                                                  |                                           |
 | Column           | vertical layout                                                 |                                           |
 | Row              | horizontal layout                                                 |                                           |
-| Container        |                                                  |                                           |
+| Container        | wraps content with padding,margin, or color                                                 |                                           |
 | Text             | displays text                                                  |                                           |
 | Image.network    | displays images widget                                                  |                                           |
 
